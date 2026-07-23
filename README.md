@@ -5,7 +5,7 @@
 Information Systems graduate building AI and web software. I communicate fluently in written American English and thrive in async, remote-first teams.
 
 ## 🔗 Portfolio
-🌐 https://evertonsantana.github.io
+🌐 https://evertonst.github.io
 
 ## 🤖 Featured AI Projects
 - [Retro Racing AI Chatbot](https://github.com/EvertonSt/retro-racing-ai-chatbot) — JavaScript · LLM
