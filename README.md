@@ -7,6 +7,13 @@ Information Systems graduate combining QA automation, AI tooling, and deep gamin
 ## 🔗 Portfolio
 🌐 https://evertonst.github.io
 
+## 📌 Pinned QA / AI Repos
+- [QA Testing Suite](https://github.com/EvertonSt/qa-testing-suite) — Cypress + Mocha API/UI tests, GitHub Actions CI
+- [Bug Report Generator](https://github.com/EvertonSt/bug-report-generator) — QA CLI: reports from failed runs, severity + dup detection
+- [AI Test Case Generator](https://github.com/EvertonSt/ai-test-case-generator) — plain-English → Gherkin via Claude, Mocha scaffold
+- [AI Content Testing Tool](https://github.com/EvertonSt/ai-content-testing) — readability / SEO / AI-detection / grammar
+- [Gaming QA Tool](https://github.com/EvertonSt/gaming-qa-tool) — compat / perf / UX validation, 16 tests
+
 ## 🛠️ QA & AI Projects
 
 | Project | What it proves | Link |
