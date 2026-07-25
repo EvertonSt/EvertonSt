@@ -1,4 +1,4 @@
-# Everton Santana Andrade 👋
+# Everton S. Andrade 👋
 
 **QA Engineer · AI Specialist · Native American English · Remote-Ready**
 
@@ -14,6 +14,8 @@ Information Systems graduate combining QA automation, AI tooling, and deep gamin
 | **QA Testing Suite** | API + UI automated testing (Cypress, Mocha), CI/CD with GitHub Actions | [repo](https://github.com/EvertonSt/qa-testing-suite) |
 | **AI Content Testing Tool** | Readability, SEO, AI-detection & grammar analysis (Node/Express) | [repo](https://github.com/EvertonSt/ai-content-testing) |
 | **Gaming QA Tool** | Game compatibility, performance & UX validation — zero-dep, 16 tests | [repo](https://github.com/EvertonSt/gaming-qa-tool) |
+| **Bug Report Generator** | QA CLI — fast consistent bug reports, auto-pull failed Cypress/Mocha runs, severity + duplicate detection | [repo](https://github.com/EvertonSt/bug-report-generator) |
+| **AI Test Case Generator** | Plain-English → Gherkin test cases via Claude, JSON-validated, emits Mocha/Chai scaffold | [repo](https://github.com/EvertonSt/ai-test-case-generator) |
 | **Portfolio Hub** | Landing page tying the above together | [repo](https://github.com/EvertonSt/portfolio) |
 
 ## 🤖 Featured AI Projects
@@ -30,6 +32,6 @@ Remote **QA Engineer**, **Game QA Tester**, or **AI Specialist** roles with US /
 Brazil (GMT-3) · Open to remote roles in US / EU timezones
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/everton-santana-andrade-760407128/
+- LinkedIn: https://www.linkedin.com/in/everton-s-andrade-760407128/
 - Telegram: @evertonstn
 - Email: everton_st@outlook.com
