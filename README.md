@@ -1,6 +1,6 @@
 # Everton S. Andrade 👋
 
-**QA Engineer · AI Specialist · Native American English · Remote-Ready**
+**QA Engineer · AI Specialist · Fluent English (Native-Level Accent) · Remote-Ready**
 
 Information Systems graduate combining QA automation, AI tooling, and deep gaming-market knowledge. I communicate fluently in written American English and thrive in async, remote-first teams working US/EU hours.
 
