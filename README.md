@@ -4,6 +4,9 @@
 
 Information Systems graduate combining QA automation, AI tooling, and deep gaming-market knowledge. I communicate fluently in written American English and thrive in async, remote-first teams working US/EU hours.
 
+## 🧠 Professional Summary
+Technical QA Analyst, AI Orchestrator, and Technology Consultant with a strong focus on universal algorithmic logic, system architecture, and automation. Expert at leveraging advanced AI frameworks as a competitive advantage to deliver high-tier quality assurance, rigorous software/game testing, and comprehensive data curation. Deeply tech-literate with a cross-functional understanding of how modern software, networks, and internet-facing devices interact. Combines sharp analytical problem-solving with flawless English communication and a native-level accent, optimized for leading-edge international remote operations and digital asset architecture.
+
 ## 🔗 Portfolio
 🌐 https://evertonst.github.io
 
