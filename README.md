@@ -1,47 +1,34 @@
-# Everton S. Andrade 👋
+## Hi, I'm Everton
 
-**QA Engineer · AI Specialist · Fluent English (Native-Level Accent) · Remote-Ready**
+QA engineer who ships. I build the testing infrastructure I wish existed,
+end to end: checkout validation that runs in the browser on a schedule,
+an AI customer-service platform handling real WhatsApp conversations,
+and the load drills and runbooks to prove both survive production.
 
-Information Systems graduate combining QA automation, AI tooling, and deep gaming-market knowledge. I communicate fluently in written American English and thrive in async, remote-first teams working US/EU hours.
+Current focus: **[SiteCheckIn](https://sitecheckin.com)** - scheduled
+browser checks that screenshot a checkout flow and alert when it breaks -
+and **[AtendeZap](https://atendezap.com.br)** - AI-powered WhatsApp
+attendance for small businesses. Both in production, both launched with
+real load tests and rehearsed failure drills.
 
-## 🧠 Professional Summary
-Technical QA Analyst, AI Orchestrator, and Technology Consultant with a strong focus on universal algorithmic logic, system architecture, and automation. Expert at leveraging advanced AI frameworks as a competitive advantage to deliver high-tier quality assurance, rigorous software/game testing, and comprehensive data curation. Deeply tech-literate with a cross-functional understanding of how modern software, networks, and internet-facing devices interact. Combines sharp analytical problem-solving with flawless English communication and a native-level accent, optimized for leading-edge international remote operations and digital asset architecture.
+### Selected work
 
-## 🔗 Portfolio
-🌐 https://evertonst.github.io
+- **[SiteCheckIn](https://sitecheckin.com)** - scheduled checkout monitoring
+  with screenshot evidence. Playwright on a VPS, PM2, alerting with
+  escalation. Private repo; full case study on the [site](https://evertonst.github.io).
+- **[AtendeZap](https://atendezap.com.br)** - AI WhatsApp attendance platform.
+  Node + Postgres + Redis + WhatsApp integration. Private repo; case study on the [site](https://evertonst.github.io).
+- **[Argus](https://github.com/EvertonSt/argus)** - visual regression + API
+  testing in one CLI, built for CI pipelines.
+- **[QA Testing Suite](https://github.com/EvertonSt/qa-testing-suite)** -
+  the full testing toolkit: UI, API, performance, and data validation.
+- **[Forge Pro](https://github.com/EvertonSt/forge-pro)** - test data
+  generation with realistic factories and seeders.
 
-## 📌 Pinned QA / AI Repos
-- [QA Testing Suite](https://github.com/EvertonSt/qa-testing-suite) — Cypress + Mocha API/UI tests, GitHub Actions CI
-- [Bug Report Generator](https://github.com/EvertonSt/bug-report-generator) — QA CLI: reports from failed runs, severity + dup detection
-- [AI Test Case Generator](https://github.com/EvertonSt/ai-test-case-generator) — plain-English to Gherkin via Claude, Mocha scaffold
-- [AI Content Testing Tool](https://github.com/EvertonSt/ai-content-testing) — readability / SEO / AI-detection / grammar
-- [Gaming QA Tool](https://github.com/EvertonSt/gaming-qa-tool) — compat / perf / UX validation, 16 tests
+### What I care about
 
-## 🛠️ QA & AI Projects
-
-| Project | What it proves | Link |
-|---------|---------------|------|
-| **QA Testing Suite** | API + UI automated testing (Cypress, Mocha), CI/CD with GitHub Actions | [repo](https://github.com/EvertonSt/qa-testing-suite) |
-| **AI Content Testing Tool** | Readability, SEO, AI-detection & grammar analysis (Node/Express) | [repo](https://github.com/EvertonSt/ai-content-testing) |
-| **Gaming QA Tool** | Game compatibility, performance & UX validation — zero-dep, 16 tests | [repo](https://github.com/EvertonSt/gaming-qa-tool) |
-| **Bug Report Generator** | QA CLI — fast consistent bug reports, auto-pull failed Cypress/Mocha runs, severity + duplicate detection | [repo](https://github.com/EvertonSt/bug-report-generator) |
-| **AI Test Case Generator** | Plain-English → Gherkin test cases via Claude, JSON-validated, emits Mocha/Chai scaffold | [repo](https://github.com/EvertonSt/ai-test-case-generator) |
-| **Portfolio Hub** | Landing page tying the above together | [repo](https://github.com/EvertonSt/portfolio) |
-
-## 🤖 Featured AI Projects
-- [Retro Racing AI Chatbot](https://github.com/EvertonSt/retro-racing-ai-chatbot) — JavaScript · LLM
-- [Retro Gaming AI Chatbot](https://github.com/EvertonSt/retro-gaming-ai-chatbot) — JavaScript · LLM
-
-## 💼 Stack
-QA Automation (Cypress · Mocha · Chai) · API Testing · AI Tooling (OpenAI/Anthropic) · C# / .NET · JavaScript · SQL Server
-
-## 🎯 What I'm looking for
-Remote **QA Engineer**, **Game QA Tester**, or **AI Specialist** roles with US / Canada / EU companies — paid at international rates, working from Brazil.
-
-## 📍 Location
-Brazil (GMT-3) · Open to remote roles in US / EU timezones
-
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/everton-s-andrade-760407128/
-- Telegram: @evertonstn
-- Email: everton_st@outlook.com
+Testing is an engineering discipline, not a checklist. The interesting
+problems are architectural: what to monitor, what to trust, what to prove,
+and how to make failure information actionable at 3am. I write the
+runbooks, the decision records, and the drills - because a test that
+nobody can operate is a test that doesn't exist.
