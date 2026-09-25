@@ -7,7 +7,7 @@ and the load drills and runbooks to prove both survive production.
 
 Current focus: **[SiteCheckIn](https://sitecheckin.com)** - scheduled
 browser checks that screenshot a checkout flow and alert when it breaks -
-and **[AtendeZap](https://atendezap.com.br)** - AI-powered WhatsApp
+and **[AItendimento](https://aitendimento.com.br)** - AI-powered WhatsApp
 attendance for small businesses. Both in production, both launched with
 real load tests and rehearsed failure drills.
 
@@ -16,7 +16,7 @@ real load tests and rehearsed failure drills.
 - **[SiteCheckIn](https://sitecheckin.com)** - scheduled checkout monitoring
   with screenshot evidence. Playwright on a VPS, PM2, alerting with
   escalation. Private repo; full case study on the [site](https://evertonst.github.io).
-- **[AtendeZap](https://atendezap.com.br)** - AI WhatsApp attendance platform.
+- **[AItendimento](https://aitendimento.com.br)** - AI WhatsApp attendance platform.
   Node + Postgres + Redis + WhatsApp integration. Private repo; case study on the [site](https://evertonst.github.io).
 - **[Argus](https://github.com/EvertonSt/argus)** - visual regression + API
   testing in one CLI, built for CI pipelines.
