@@ -16,10 +16,10 @@ rehearsed before real users arrive rather than after.
 
 - **SiteCheckIn** - scheduled checkout monitoring with screenshot evidence.
   Playwright on a VPS, PM2, alerting with escalation. Pre-launch, private
-  repo; details on the [studio site](https://evertonstudio.com).
+  repo; full case study on the [site](https://evertonst.github.io).
 - **AItendimento** - AI WhatsApp attendance platform. Node + Postgres + Redis
-  + WhatsApp integration. Pre-launch, private repo; details on the
-  [studio site](https://evertonstudio.com).
+  + WhatsApp integration. Pre-launch, private repo; full case study on the
+  [site](https://evertonst.github.io).
 - **[Argus](https://github.com/EvertonSt/argus)** - visual regression + API
   testing in one CLI, built for CI pipelines.
 - **[QA Testing Suite](https://github.com/EvertonSt/qa-testing-suite)** -
