@@ -3,21 +3,23 @@
 QA engineer who ships. I build the testing infrastructure I wish existed,
 end to end: checkout validation that runs in the browser on a schedule,
 an AI customer-service platform handling real WhatsApp conversations,
-and the load drills and runbooks to prove both survive production.
+and the load drills and runbooks that prove a system survives real traffic.
 
-Current focus: **SiteCheckIn** - scheduled browser checks that screenshot
-a checkout flow and alert when it breaks - and
-**[AItendimento](https://aitendimento.com.br)** - AI-powered WhatsApp
-attendance for small businesses. Both in production, both launched with
-real load tests and rehearsed failure drills.
+Current focus: **SiteCheckIn** - scheduled browser checks that screenshot a
+checkout flow and alert when it breaks, with a public launch targeted for
+October 12 - and **AItendimento** - AI-powered WhatsApp attendance for small
+businesses, in owner testing now with a public launch targeted for November 2.
+Both are private repos, and the load drills and failure runbooks are being
+rehearsed before real users arrive rather than after.
 
 ### Selected work
 
 - **SiteCheckIn** - scheduled checkout monitoring with screenshot evidence.
-  Playwright on a VPS, PM2, alerting with escalation. Private repo; full
-  case study on the [site](https://evertonst.github.io).
-- **[AItendimento](https://aitendimento.com.br)** - AI WhatsApp attendance platform.
-  Node + Postgres + Redis + WhatsApp integration. Private repo; case study on the [site](https://evertonst.github.io).
+  Playwright on a VPS, PM2, alerting with escalation. Pre-launch, private
+  repo; details on the [studio site](https://evertonstudio.com).
+- **AItendimento** - AI WhatsApp attendance platform. Node + Postgres + Redis
+  + WhatsApp integration. Pre-launch, private repo; details on the
+  [studio site](https://evertonstudio.com).
 - **[Argus](https://github.com/EvertonSt/argus)** - visual regression + API
   testing in one CLI, built for CI pipelines.
 - **[QA Testing Suite](https://github.com/EvertonSt/qa-testing-suite)** -
