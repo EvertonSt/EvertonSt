@@ -5,17 +5,17 @@ end to end: checkout validation that runs in the browser on a schedule,
 an AI customer-service platform handling real WhatsApp conversations,
 and the load drills and runbooks to prove both survive production.
 
-Current focus: **[SiteCheckIn](https://sitecheckin.com)** - scheduled
-browser checks that screenshot a checkout flow and alert when it breaks -
-and **[AItendimento](https://aitendimento.com.br)** - AI-powered WhatsApp
+Current focus: **SiteCheckIn** - scheduled browser checks that screenshot
+a checkout flow and alert when it breaks - and
+**[AItendimento](https://aitendimento.com.br)** - AI-powered WhatsApp
 attendance for small businesses. Both in production, both launched with
 real load tests and rehearsed failure drills.
 
 ### Selected work
 
-- **[SiteCheckIn](https://sitecheckin.com)** - scheduled checkout monitoring
-  with screenshot evidence. Playwright on a VPS, PM2, alerting with
-  escalation. Private repo; full case study on the [site](https://evertonst.github.io).
+- **SiteCheckIn** - scheduled checkout monitoring with screenshot evidence.
+  Playwright on a VPS, PM2, alerting with escalation. Private repo; full
+  case study on the [site](https://evertonst.github.io).
 - **[AItendimento](https://aitendimento.com.br)** - AI WhatsApp attendance platform.
   Node + Postgres + Redis + WhatsApp integration. Private repo; case study on the [site](https://evertonst.github.io).
 - **[Argus](https://github.com/EvertonSt/argus)** - visual regression + API
